@@ -1,2 +1,18 @@
-name = "Joseph"
-print("My name is:", name)
+Firstname = input("Enter First Name: ")
+print("First Name: ", Firstname)
+Lastname = input("Enter Last Name: ")
+print("Last Name: ", Lastname)
+Middlename = input("Enter Middle Name: ")
+print("Middle Name: ", Middlename)
+Birthday = input("Enter Birthday: ")
+print("Birthday: ", Birthday)
+Gender = input("Enter Gender: ")
+print("Gender: ", Gender)
+Address = input("Enter Address: ")
+print("Address: ", Address)
+Course = input("Enter Course: ")
+print("Course: ", Course)
+Yearlvl = input("Enter Year Level: ")
+print("Year Level: ", Yearlvl)
+
+
